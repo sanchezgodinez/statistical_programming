@@ -6,3 +6,5 @@ gitcreds::gitcreds_set()
 
 
 
+use_github()
+
